@@ -16,9 +16,8 @@ This is a lightweight task management application built with Vue.js. It allows u
 
 ## **Tech Stack**
 - **Frontend:** Vue 3, HTML, CSS, JavaScript
-- **Styling:** Tailwind CSS
+- **Styling:** Normalize.css
 - **Storage:** Browser's Local Storage
-
 
 ## **Usage**
 - **Add a Task**: Enter a task name, set priority, and press enter.
